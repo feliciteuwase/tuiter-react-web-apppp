@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome to web dev </h1>
         <h2>This is branch for assignments 2</h2>
+        <h3>My name is Kelly</h3>
 
         <a
           className="App-link"
